@@ -19,4 +19,5 @@ sudo apt-get install -y mongodb-org
 # update + cleanup
 sudo apt update
 sudo apt upgrade -y
-sudo apt autoremove
+sudo apt autoremove -y
+echo 'Part one done. Restart server and run part two'
