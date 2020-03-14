@@ -20,4 +20,4 @@ sudo apt-get install -y mongodb-org
 sudo apt update
 sudo apt upgrade -y
 sudo apt autoremove -y
-echo 'Part one done. Restart server and run part two'
+echo 'Part one done. Restart server to run part two.'
