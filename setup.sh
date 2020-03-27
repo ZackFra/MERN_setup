@@ -20,4 +20,4 @@ sudo apt install -y mongodb-org
 sudo apt update
 sudo apt upgrade -y
 sudo apt autoremove -y
-echo 'Part one done. Restart server to run part two.'
+echo 'Setup done. Restart server to install node'
